@@ -1,7 +1,7 @@
 # Takım Projesi
 
 ## Takım Üyeleri
-- Mehmetali - Takım Kaptanı
+- Mehmetali - Proje Lideri
 - Uygar - Geliştirici
 - Gökhan - Tasarımcı
 - Mevlüt - Test Uzmanı
